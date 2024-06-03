@@ -24,7 +24,7 @@ function Header() {
               */}
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Gerenciamento de Projetos
+              Gerenciamento de Projetos - Atividade Prática Módulo 10
             </Typography>
           </Toolbar>
         </AppBar>
